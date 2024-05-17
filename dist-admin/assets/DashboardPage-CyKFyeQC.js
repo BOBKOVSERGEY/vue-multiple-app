@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,c as a,a as s}from"./index-Sf3_TAmS.js";const t={},c=s("h1",null,"Dashboard",-1),r=[c];function n(_,d){return o(),a("div",null,r)}const i=e(t,[["render",n]]);export{i as default};

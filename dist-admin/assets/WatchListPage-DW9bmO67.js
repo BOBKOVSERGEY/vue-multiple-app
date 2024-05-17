@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c,a as o}from"./index-Sf3_TAmS.js";const s={},a=o("h1",null,"WatchList Page",-1),n=[a];function r(_,i){return t(),c("div",null,n)}const f=e(s,[["render",r]]);export{f as default};

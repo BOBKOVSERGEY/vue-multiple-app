@@ -3,7 +3,7 @@ import CustomerLayout from '@/layouts/CustomerLayout.vue'
 </script>
 
 <template>
-  <CustomerLayout is-header is-footer>
+  <CustomerLayout>
     <RouterView/>
   </CustomerLayout>
 </template>

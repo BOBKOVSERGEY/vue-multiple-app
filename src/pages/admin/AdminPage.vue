@@ -4,7 +4,7 @@ import AdminLayout from '@/layouts/AdminLayout.vue'
 </script>
 
 <template>
-  <AdminLayout is-header is-footer >
+  <AdminLayout>
     <RouterView />
   </AdminLayout>
 </template>
